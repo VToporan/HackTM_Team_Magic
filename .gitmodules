@@ -1,3 +1,6 @@
 [submodule "HackTM2022-Magic-Hardware"]
 	path = HackTM2022-Magic-Hardware
 	url = https://github.com/VladTomici14/HackTM2022-Magic-Hardware
+[submodule "Cargoloop-HackTM"]
+	path = Cargoloop-HackTM
+	url = https://github.com/Tudor036/Cargoloop-HackTM
